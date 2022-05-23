@@ -10,7 +10,7 @@
 ## Team Member
 
 Name | Learning Path
-:---|:---:|---:
+:---|:---:
 Abednego Steven Sihite | Machine Learning
 Stefanus Deo Alfian  | Machine Learning
 Nayla Yaumisita | Machine Learning
