@@ -1,0 +1,32 @@
+{
+  "rizal": {
+    "username": "rizal",
+    "password": "admin",
+    "id": "0",
+    "name": "Khairul Rizal"
+  },
+  "abed": {
+      "username": "abed",
+      "password": "admin",
+      "id": "1",
+      "name": "Abednego"
+  },
+  "stefanus": {
+      "username": "stefanus",
+      "password": "admin",
+      "id": "2",
+      "name": "Stefanus"
+  },
+  "eria": {
+    "username": "eria",
+    "password": "admin",
+    "id": "3",
+    "name": "Eria"
+  },
+  "nayla": {
+    "username": "nayla",
+    "password": "admin",
+    "id": "4",
+    "name": "Nayla"
+  }
+}
